@@ -1,4 +1,4 @@
-# guessing_numberOverview
+# Overview
 The Number Guessing Game is an interactive console-based game where the player attempts to guess a secret number within a specified range. The game provides feedback on whether the player's guess is too high or too low, and it tracks the number of guesses. The game ends once the player correctly guesses the number or exceeds the maximum number of allowed guesses.
 
 # Features
